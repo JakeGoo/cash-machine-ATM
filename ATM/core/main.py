@@ -12,7 +12,7 @@ import json
 
 BASE_DIR = configure.BASE
 """
-this file is about ATM2 main program
+this file is about ATM main program
 
 """
 
