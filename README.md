@@ -1,2 +1,2 @@
 # cash-machine-ATM
-Simply simulate cash machine
+Simply simulate ATM, deposit, withdraw money, apply for a savings card.
