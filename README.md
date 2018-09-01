@@ -1,2 +1,2 @@
 # cash-machine-ATM
-Simply simulate ATM, deposit, withdraw money, apply for a savings card.
+A simple simulation of ATM program, can deposit, withdrawals, transfer. Represent each account with an independent file.
